@@ -1,0 +1,16 @@
+.backound{
+    align-self: center;
+}
+
+.image{
+    align-self: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+.footer button {
+    margin: 0 10px; /* Add some space between the buttons */
+}
