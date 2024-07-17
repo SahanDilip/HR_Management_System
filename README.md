@@ -31,7 +31,7 @@ Welcome to the Jupiter Human Resource Management System! This system is designed
 
 To get started with the Jupiter HRM system, follow these steps:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/SahanDilip/HR_Management_System.git`
 2. Install the necessary dependencies: `npm install`
 3. Configure the database connection in the `.env` file.
 4. Run the application: `npm start`
